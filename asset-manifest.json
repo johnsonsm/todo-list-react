@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/johnsonsm/todo-list-react.git/static/css/main.9ca512b3.chunk.css",
+    "main.js": "/johnsonsm/todo-list-react.git/static/js/main.86b7ec32.chunk.js",
+    "main.js.map": "/johnsonsm/todo-list-react.git/static/js/main.86b7ec32.chunk.js.map",
+    "runtime-main.js": "/johnsonsm/todo-list-react.git/static/js/runtime-main.cc5f7ebd.js",
+    "runtime-main.js.map": "/johnsonsm/todo-list-react.git/static/js/runtime-main.cc5f7ebd.js.map",
+    "static/js/2.1d85ce58.chunk.js": "/johnsonsm/todo-list-react.git/static/js/2.1d85ce58.chunk.js",
+    "static/js/2.1d85ce58.chunk.js.map": "/johnsonsm/todo-list-react.git/static/js/2.1d85ce58.chunk.js.map",
+    "static/js/3.28876cb8.chunk.js": "/johnsonsm/todo-list-react.git/static/js/3.28876cb8.chunk.js",
+    "static/js/3.28876cb8.chunk.js.map": "/johnsonsm/todo-list-react.git/static/js/3.28876cb8.chunk.js.map",
+    "index.html": "/johnsonsm/todo-list-react.git/index.html",
+    "static/css/main.9ca512b3.chunk.css.map": "/johnsonsm/todo-list-react.git/static/css/main.9ca512b3.chunk.css.map",
+    "static/js/2.1d85ce58.chunk.js.LICENSE.txt": "/johnsonsm/todo-list-react.git/static/js/2.1d85ce58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc5f7ebd.js",
+    "static/js/2.1d85ce58.chunk.js",
+    "static/css/main.9ca512b3.chunk.css",
+    "static/js/main.86b7ec32.chunk.js"
+  ]
+}
